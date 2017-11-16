@@ -16,16 +16,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Mike Yu</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Mike Yu</o:LastAuthor>
-  <o:Revision>8</o:Revision>
-  <o:TotalTime>111</o:TotalTime>
+  <o:Revision>6</o:Revision>
+  <o:TotalTime>110</o:TotalTime>
   <o:Created>2017-08-25T22:40:00Z</o:Created>
-  <o:LastSaved>2017-11-16T16:48:00Z</o:LastSaved>
+  <o:LastSaved>2017-11-16T16:47:00Z</o:LastSaved>
   <o:Pages>5</o:Pages>
   <o:Words>1794</o:Words>
-  <o:Characters>10227</o:Characters>
+  <o:Characters>10228</o:Characters>
   <o:Lines>85</o:Lines>
   <o:Paragraphs>23</o:Paragraphs>
-  <o:CharactersWithSpaces>11998</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>11999</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -1833,8 +1833,8 @@ style='font-family:"Cambria",serif;color:windowtext'><o:p>&nbsp;</o:p></span></p
   <p class=MsoNormal align=center style='text-align:center;background:#E7E6E6;
   mso-background-themecolor:background2;border:none;mso-border-alt:solid windowtext .5pt;
   padding:0in;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt'><b style='mso-bidi-font-weight:
-  normal'><u><span style='font-size:12.0pt;mso-bidi-font-size:11.0pt;
-  line-height:105%'>INFORMATION IDENTIFIED AS IMPORTANT BY OTHER PATIENTS<o:p></o:p></span></u></b></p>
+  normal'><span style='font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:
+  105%'>Information identifies as important by other patients:<o:p></o:p></span></b></p>
   <p class=MsoListParagraph style='margin-top:0in;margin-right:0in;margin-bottom:
   6.0pt;margin-left:.25in;text-indent:-.25in;mso-list:l5 level1 lfo19;
   background:#E7E6E6;mso-background-themecolor:background2;border:none;
